@@ -17,7 +17,6 @@ for (let i = 1; i <= 5; i++)
 }
 
 function App() {
-  console.log(playRoutes)
   return (
     <BrowserRouter>
     <Routes>
